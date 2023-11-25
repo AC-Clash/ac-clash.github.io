@@ -26,7 +26,7 @@ p {
 
 #countdown {
     display: flex;
-    justify-content: space-around; /* changed from space-between */
+    justify-content: space-between; /* changed from space-between */
     margin-top: 30px;
     font-size: 30px;
     width: 50%; /* added to limit width of countdown and bring elements closer */
